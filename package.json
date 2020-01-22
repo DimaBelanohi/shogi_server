@@ -1,0 +1,19 @@
+{
+  "name": "shogi_server",
+  "version": "1.0.0",
+  "description": "shogi_server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimaBelanohi/shogi_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DimaBelanohi/shogi_server/issues"
+  },
+  "homepage": "https://github.com/DimaBelanohi/shogi_server#readme"
+}
